@@ -108,7 +108,6 @@ function Throw() {
         }else{
         Cooldown = 30
         }
-        Pokeball.debug = true;
         Pokeball.setCollider("circle", 0, 0, 20);
     }
 }
